@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box ; 
+  }
+
+    body {
+        font-family: Arial, sans-serif;
+        }
+
+    .titulos {
+        text-align: center;
+        font-size: xx-large;
+        }
+
+    .parrafoinicial{
+        text-align: center;
+        font-size: x-large;
+        color: #555;
+        
+    }
+
+    .imagen-1{
+        float: left;
+        width: 550px;
+        height: 480px;
+        margin: 100px 0px 0px 150px;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+
+    .imagen-2{
+        float: right;
+        width: 550px;
+        height: 480px;
+        margin: 100px 150px 0px 0px;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+
+    .imagen-3{
+        float: left;
+        width: 550px;
+        height: 480px;
+        margin: 100px 0px 0px 150px;;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+
+    .imagen-4{
+        float: right;
+        width: 550px;
+        height: 480px;
+        margin: 100px 150px 0px 0px;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+
+    .imagen-5{
+        float: left;
+        width: 550px;
+        height: 480px;
+        margin: 100px 0px 0px 150px;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+
+    .imagen-6{
+        float: right;
+        width: 550px;
+        height: 480px;
+        margin: 100px 150px 0px 0px;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+
+    .Subtitulos{
+        display: block;
+        margin: 150px 300px 0px 1000px;
+    }
+
+    .Subtitulos2{
+        display: block;
+        margin: 150px 1000px 0px 400px;
+    }
+
+    .texto{
+        display: block;
+        margin: 50px 300px 0px 800px;
+    }
+
+    .texto1{
+        display: block;
+        margin: 50px 800px 0px 200px;
+    }
+  
+    .contenedor {
+        overflow: auto;
+        display: flex;
+        flex-direction: column;
+        background-color: #555;
+        }
